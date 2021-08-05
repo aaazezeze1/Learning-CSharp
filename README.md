@@ -1,4 +1,4 @@
-# Learning-CSharp and Unity3d
+# Learning C# and Unity3d
 
 ---
 
@@ -110,6 +110,8 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 - [Chris's Tutorials - Programming 2D Unity Games in C#](https://youtu.be/6zD14z6TWLs)
 
 - [Epitome's Learn Unity Engine and C# by creating a real top down RPG [FULL COURSE] [C# Unity Tutorial]](https://youtu.be/b8YUfee_pzc)
+
+---
 
 #### *9. Learning C# (Projects List)*
 
