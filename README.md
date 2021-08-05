@@ -28,6 +28,8 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 - [Angel Six's C# Mastery Course](https://youtube.com/playlist?list=PLrW43fNmjaQVSmaezCeU-Hm4sMs2uKzYN)
 
+- [Kudvenkat's C# tutorial for beginners](https://youtube.com/playlist?list=PLAC325451207E3105)
+
 - [Edureka's C# Tutorial for Beginners](https://youtu.be/wLg-XdAmrak)
 
 ---
@@ -49,11 +51,19 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 - [Freecodecamp's Create a C# Application from Start to Finish - Complete Course](https://youtu.be/wfWxdh-_k_4)
 
+- [Traversy Media's Build a C# .NET Application in 60 Minutes](https://youtu.be/GcFJjpMFJvI)
+
 - [tutorialsEU's C# GUI Tutorial using WPF | XAML](https://youtu.be/oSeYvMEH7jc)
 
 - [Angel Six's WPF UI Programming](https://youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M)
 
+- [Shad Sluiter's Beginning C#](https://youtube.com/playlist?list=PLhPyEFL5u-i1OqahGlxokXzn6Tns0VGi5)
+
+- [Shad Sluiter's C# App Development Course](https://youtube.com/playlist?list=PLhPyEFL5u-i03yjAvWPwYyG6s3K0jH8QX)
+
 - [OnlineITtut's Windows Form Application C# Tutorial for Beginners](https://youtu.be/zfz49gjnjcY)
+
+- [Pinoy Coder's C# windows form tutorial [TAGALOG]](https://youtu.be/Vfr6dS8DjOY)
 
 ---
 
@@ -61,7 +71,17 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 - [Angel Six's .NET Tutorials](https://youtube.com/playlist?list=PLrW43fNmjaQVYtk81cuX254TQsJE3zgvx)
 
-#### *5. Learning C# (ASP .NET Core)*
+---
+
+#### *5. Learning C# (ASP .NET)*
+
+- [Kudvenkat's ASP .NET tutorial for beginners](https://youtube.com/playlist?list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo) 
+
+- [Shad Sluiter's ASP.NET MVC Web App Development Course](https://youtube.com/playlist?list=PLhPyEFL5u-i1u7EJDbg_yjsmwCAqLn4PD)
+
+---
+
+#### *6. Learning C# (ASP .NET Core)*
 
 - [Freecodecamp's ASP .NET Core 3.1 Full Course for Beginners](https://youtu.be/C5cnZ-gZy2I)
 
@@ -71,9 +91,13 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 - [Angel Six's ASP .NET Core Server Development](https://youtube.com/playlist?list=PLrW43fNmjaQUBZv0OiliNY4fStb4Vj1u4) 
 
+- [Kudvenkat's Web development with Blazor](https://youtube.com/playlist?list=PL6n9fhu94yhXXmhl1U4_oHZS5nhaabpPN) 
+
+- [Shad Sluiter's ASP .NET Core Web Development Tutorial](https://youtube.com/playlist?list=PLhPyEFL5u-i2ShGqmuP3uDdSy06hzBzdo)
+
 ---
 
-#### *6. Learning C# (Xamarin Forms)*
+#### *7. Learning C# (Xamarin Forms)*
 
 - [Programming with Mosh's Xamarin Forms Tutorial: Build Native Mobile Apps with C#](https://youtu.be/93ZU6j59wL4)
 
@@ -81,7 +105,7 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 ---
 
-#### *7. Learning C# (Game Development)*
+#### *8. Learning C# (Game Development)*
 
 - [University of Colorado's Game Progamming with C# Complete Course](https://youtu.be/XLW3Biw-a68)
 
@@ -89,7 +113,7 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 ---
 
-#### *8. Learning C# (Unity3d)*
+#### *9. Learning C# (Unity3d)*
 
 - [Imphenzia's LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://youtu.be/pwZpJzpE2lQ)
 
@@ -113,7 +137,7 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 ---
 
-#### *9. Learning C# (Projects List)*
+#### *10. Learning C# (Projects List)*
 
 - [Source Code and Projects's C# Projects](https://code-projects.org/c/languages/project/c-sharp-projects/)
 
