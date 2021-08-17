@@ -135,6 +135,12 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 - [Epitome's Learn Unity Engine and C# by creating a real top down RPG [FULL COURSE] [C# Unity Tutorial]](https://youtu.be/b8YUfee_pzc)
 
+- [GamePlusJames Unity 2 Player Game Tutorial](https://www.youtube.com/watch?v=p23J5-1OTAM&list=PLiyfvmtjWC_Ugm9c9Q7WaoRFGBZh_Z6ys)
+
+- [Unity Official Roll a Ball Game Tutorial](https://www.youtube.com/watch?v=W_fAidYRGzs)
+
+- [Unity 2D Roguelike Tutorial](https://www.youtube.com/watch?v=Fdcnt2-Jf4w&list=PLX2vGYjWbI0SKsNH5Rkpxvxr1dPE0Lw8F)
+
 ---
 
 #### *10. Learning C# (Projects List)*
