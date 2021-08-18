@@ -38,8 +38,9 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 - [Caleb Curry's C# Programming All-in-One Tutorial Series](https://youtu.be/qOruiBrXlAw)
 
-- [Jesse Dietrichson's Advanced C#](https://youtube.com/playlist?list=PLhq7kqloVlM95ROEbGpJEdpadDmtrC343)
-- [](https://youtube.com/playlist?list=PLhq7kqloVlM9iFmPZpQMgFjL6LytLv1Md)
+- [Jesse Dietrichson's C# for Beginners](https://youtube.com/playlist?list=PLhq7kqloVlM95ROEbGpJEdpadDmtrC343)
+
+- [Jesse Dietrichson's Advanced C#](https://youtube.com/playlist?list=PLhq7kqloVlM9iFmPZpQMgFjL6LytLv1Md)
 
 - [Bob Tabor's C# Complete Tutorial From Beginner To Advanced](https://youtu.be/FPeGkedZykA)
 
