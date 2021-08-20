@@ -10,9 +10,13 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 ### Contents
 
-#### *1. Learning C# (Basics)*
+#### _1. Learning C# (Basics)_
 
 - [Freecodecamp's C# Full Course for Beginners on Youtube](https://youtu.be/GhQdlIFylQ8)
+
+- [Almantas Karpavičius C# From Zero to Hero V1](https://youtube.com/playlist?list=PLbwOopTjJke7vIRVxljiUfI4BY065smhU)
+
+- [Microsoft Channel 9's C# 101](https://channel9.msdn.com/Series/CSharp-101?WT.mc_id=csharp-reddit-bramin)
 
 - [Code Monkey's C# Basics to Advanced](https://youtube.com/playlist?list=PLzDRvYVwl53t2GGC4rV_AmH7vSvSqjVmz)
 
@@ -32,11 +36,17 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 - [Edureka's C# Tutorial for Beginners](https://youtu.be/wLg-XdAmrak)
 
+- [Guru 99's C# Tutorial for Beginners: Learn C Sharp Programming in 7 Days](https://www.guru99.com/c-sharp-tutorial.html)
+
 ---
 
-#### *2. Learning C# (Advanced)*
+#### _2. Learning C# (Advanced)_
 
 - [Caleb Curry's C# Programming All-in-One Tutorial Series](https://youtu.be/qOruiBrXlAw)
+
+- [Almantas Karpavičius C# From Zero to Hero V2](https://youtube.com/playlist?list=PLbwOopTjJke49hTBrmz8ayxQj_Zro4zrg)
+
+- [Microsoft Channel 9's C# Advanced](https://channel9.msdn.com/Series/C-Advanced/?&WT.mc_id=csharp-reddit-bramin)
 
 - [Jesse Dietrichson's C# for Beginners](https://youtube.com/playlist?list=PLhq7kqloVlM95ROEbGpJEdpadDmtrC343)
 
@@ -46,9 +56,17 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 - [Ian Schoenrock's C# Full Course Beginner to Advanced](https://youtube.com/playlist?list=PLq5Uz3LSFff8GmtFeoXRZCtWBKQ0kWl-H)
 
+- [Microsoft Channel 9's NuGet 101](https://channel9.msdn.com/Series/NuGet-101?WT.mc_id=csharp-reddit-bramin)
+
+- [Microsoft Channel 9's Entity Framework Core 101](https://channel9.msdn.com/Series/Entity-Framework-Core-101/?WT.mc_id=csharp-reddit-bramin)
+
+- [Microsoft Channel 9's ML .NET](https://channel9.msdn.com/Series/MLNET/?WT.mc_id=csharp-reddit-bramin)
+
+- [Jamie King's C# Playlist's](https://www.youtube.com/c/JamieKingCS/playlists?view=50&sort=dd&shelf_id=5)
+
 ---
 
-#### *3. Learning C# (GUI)*
+#### _3. Learning C# (GUI)_
 
 - [Freecodecamp's Create a C# Application from Start to Finish - Complete Course](https://youtu.be/wfWxdh-_k_4)
 
@@ -68,53 +86,65 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 ---
 
-#### *4. Learning C# (.NET Core)*
+#### _4. Learning C# (.NET Core)_
 
 - [Angel Six's .NET Tutorials](https://youtube.com/playlist?list=PLrW43fNmjaQVYtk81cuX254TQsJE3zgvx)
 
 ---
 
-#### *5. Learning C# (ASP .NET)*
+#### _5. Learning C# (ASP .NET)_
 
-- [Kudvenkat's ASP .NET tutorial for beginners](https://youtube.com/playlist?list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo) 
+- [Kudvenkat's ASP .NET tutorial for beginners](https://youtube.com/playlist?list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo)
 
 - [Shad Sluiter's ASP.NET MVC Web App Development Course](https://youtube.com/playlist?list=PLhPyEFL5u-i1u7EJDbg_yjsmwCAqLn4PD)
 
 ---
 
-#### *6. Learning C# (ASP .NET Core)*
+#### _6. Learning C# (ASP .NET Core)_
 
 - [Freecodecamp's ASP .NET Core 3.1 Full Course for Beginners](https://youtu.be/C5cnZ-gZy2I)
+
+- [Microsoft Channel 9's ASP.NET Core 101](https://channel9.msdn.com/Series/ASPNET-Core-101?WT.mc_id=csharp-reddit-bramin)
 
 - [Freecodecamp's ASP.NET Core Crash Course - C# App in One Hour](https://youtu.be/BfEjDD8mWYg)
 
 - [Freecodecamp's ASP.NET Core MVC Course (.NET 5)](https://youtu.be/Pi46L7UYP8I)
 
-- [Angel Six's ASP .NET Core Server Development](https://youtube.com/playlist?list=PLrW43fNmjaQUBZv0OiliNY4fStb4Vj1u4) 
+- [Angel Six's ASP .NET Core Server Development](https://youtube.com/playlist?list=PLrW43fNmjaQUBZv0OiliNY4fStb4Vj1u4)
 
-- [Kudvenkat's Web development with Blazor](https://youtube.com/playlist?list=PL6n9fhu94yhXXmhl1U4_oHZS5nhaabpPN) 
+- [Kudvenkat's Web development with Blazor](https://youtube.com/playlist?list=PL6n9fhu94yhXXmhl1U4_oHZS5nhaabpPN)
 
 - [Shad Sluiter's ASP .NET Core Web Development Tutorial](https://youtube.com/playlist?list=PLhPyEFL5u-i2ShGqmuP3uDdSy06hzBzdo)
 
+- [Freecodecamp's Blazor Course - Use ASP.NET Core to Build Full-Stack C# Web Apps](https://youtu.be/4G_BzLxa9Nw)
+
+- [Frank Liu's MVC REST API Tutorial in 5 Hours | ASP.NET CORE Web API C# | ASP.NET Web API | .NET 5](https://youtu.be/HVZMTkhonZk)
+
 ---
 
-#### *7. Learning C# (Xamarin Forms)*
+#### _7. Learning C# (Xamarin Forms)_
 
 - [Programming with Mosh's Xamarin Forms Tutorial: Build Native Mobile Apps with C#](https://youtu.be/93ZU6j59wL4)
 
 - [Mike Dane's Learn Xamarin Forms & MVVM in 2 Hours](https://youtu.be/oNIvnCNzAqU)
 
+- [Microsoft Channel 9's Xamarin Tutorial 101](https://channel9.msdn.com/Series/Xamarin-101/?WT.mc_id=csharp-reddit-bramin)
+
 ---
 
-#### *8. Learning C# (Game Development)*
+#### _8. Learning C# (Game Development)_
 
 - [University of Colorado's Game Progamming with C# Complete Course](https://youtu.be/XLW3Biw-a68)
+
+- [Moo ICT's How to make a platform game in windows form and c# in visual studio](https://www.youtube.com/watch?v=rQBHwdEEL9I)
+
+- [Expressed Unity's C# Basic 2D Game from scratch](https://www.youtube.com/watch?v=JnGM1p2vsbE)
 
 - [Moo ICT's Make a flappy bird game in windows form](https://youtu.be/yUCCv-sFUDQ)
 
 ---
 
-#### *9. Learning C# (Unity3d)*
+#### _9. Learning C# (Unity3d)_
 
 - [Imphenzia's LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://youtu.be/pwZpJzpE2lQ)
 
@@ -144,7 +174,7 @@ I made this so I can keep track of my progress in learning C# and Unity and also
 
 ---
 
-#### *10. Learning C# (Projects List)*
+#### _10. Learning C# (Projects List)_
 
 - [Source Code and Projects's C# Projects](https://code-projects.org/c/languages/project/c-sharp-projects/)
 
