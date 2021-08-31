@@ -21,7 +21,7 @@ namespace _7_Getting_User_Input
             string age = Console.ReadLine();
 
             // Prints name input
-            // Console.WriteLine("Hello " + name);
+            Console.WriteLine("Hello " + name);
 
             // Prints name and age input
             Console.WriteLine("Hello " + name + " you are " + age);
