@@ -34,7 +34,7 @@ namespace _4_Data_Types
             // Constants
             Console.WriteLine("Hello");
             Console.WriteLine(30);
-
+            
             Console.ReadLine();
         }
     }

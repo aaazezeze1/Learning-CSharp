@@ -10,7 +10,7 @@ namespace _2_Drawing_A_Shape
             Console.WriteLine("  / |");
             Console.WriteLine(" /  |");
             Console.WriteLine("/___|");
-
+            
             Console.ReadLine();
         }
     }

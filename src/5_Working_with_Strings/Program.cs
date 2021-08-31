@@ -51,7 +51,7 @@ namespace _5_Working_with_Strings
 
             // This will start grabbing the characters at index 8 up until the 3rd character
             Console.WriteLine(phrase.Substring(8, 3));
-
+            
             Console.ReadLine();
         }
     }

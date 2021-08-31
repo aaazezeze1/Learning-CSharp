@@ -18,7 +18,7 @@ namespace _3_Variables
             characterName = "Mike";
             Console.WriteLine("He really liked the name " + characterName);
             Console.WriteLine("But didn't like being " + characterAge);
-
+            
             Console.ReadLine();
         }
     }
