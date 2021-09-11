@@ -9,7 +9,7 @@ namespace _12_Return_Statement
             // To see the output returned to the computer
             Console.WriteLine(cube(5));
 
-            // does the same thing but you can modify the value using the integer cubedNumber
+            // does the same thing but you can modify the value using the variable cubedNumber
             int cubedNumber = cube(5);
             Console.WriteLine(cubedNumber);
 
