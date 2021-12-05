@@ -8,7 +8,7 @@ namespace _10_Arrays
         {
             // An array of integers
             int[] luckyNumbers = { 4, 8, 15, 16, 23, 42 };
-            //     array index = { 0, 1, 2,  3,  4,  5  }
+            //    array index = { 0, 1, 2,  3,  4,  5  }
 
             // Accessing individual elements in an array
             Console.WriteLine(luckyNumbers[0]);
