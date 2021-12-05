@@ -7,6 +7,7 @@ namespace _14_Building_a_Better_Calculator
         static void Main(string[] args)
         {
             Console.Write("Enter a number: ");
+            // store input in the variable below and convert it to a double
             double num1 = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Enter Operator: ");
