@@ -1,0 +1,15 @@
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\bin\Debug\net7.0\15_Switch_Statements.exe
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\bin\Debug\net7.0\15_Switch_Statements.deps.json
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\bin\Debug\net7.0\15_Switch_Statements.runtimeconfig.json
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\bin\Debug\net7.0\15_Switch_Statements.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\bin\Debug\net7.0\15_Switch_Statements.pdb
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\obj\Debug\net7.0\15_Switch_Statements.csproj.AssemblyReference.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\obj\Debug\net7.0\15_Switch_Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\obj\Debug\net7.0\15_Switch_Statements.AssemblyInfoInputs.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\obj\Debug\net7.0\15_Switch_Statements.AssemblyInfo.cs
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\obj\Debug\net7.0\15_Switch_Statements.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\obj\Debug\net7.0\15_Switch_Statements.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\obj\Debug\net7.0\refint\15_Switch_Statements.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\obj\Debug\net7.0\15_Switch_Statements.pdb
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\obj\Debug\net7.0\15_Switch_Statements.genruntimeconfig.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\15_Switch_Statements\obj\Debug\net7.0\ref\15_Switch_Statements.dll
