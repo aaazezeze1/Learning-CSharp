@@ -25,6 +25,7 @@
         case 7:
             dayName = "Saturday";
             break;
+            //If none of the cases are true then output this
         default:
             dayName = "Invalid Day Number";
             break;
@@ -34,3 +35,5 @@
 }
 
 Console.WriteLine(GetDay(0));
+Console.WriteLine(GetDay(4));
+Console.ReadLine();

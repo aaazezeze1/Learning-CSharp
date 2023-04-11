@@ -1,0 +1,15 @@
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\obj\Debug\net7.0\17_Building_a_Guessing_Game.csproj.AssemblyReference.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\obj\Debug\net7.0\17_Building_a_Guessing_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\obj\Debug\net7.0\17_Building_a_Guessing_Game.AssemblyInfoInputs.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\obj\Debug\net7.0\17_Building_a_Guessing_Game.AssemblyInfo.cs
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\obj\Debug\net7.0\17_Building_a_Guessing_Game.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\bin\Debug\net7.0\17_Building_a_Guessing_Game.exe
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\bin\Debug\net7.0\17_Building_a_Guessing_Game.deps.json
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\bin\Debug\net7.0\17_Building_a_Guessing_Game.runtimeconfig.json
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\bin\Debug\net7.0\17_Building_a_Guessing_Game.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\bin\Debug\net7.0\17_Building_a_Guessing_Game.pdb
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\obj\Debug\net7.0\17_Building_a_Guessing_Game.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\obj\Debug\net7.0\refint\17_Building_a_Guessing_Game.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\obj\Debug\net7.0\17_Building_a_Guessing_Game.pdb
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\obj\Debug\net7.0\17_Building_a_Guessing_Game.genruntimeconfig.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\17_Building_a_Guessing_Game\obj\Debug\net7.0\ref\17_Building_a_Guessing_Game.dll

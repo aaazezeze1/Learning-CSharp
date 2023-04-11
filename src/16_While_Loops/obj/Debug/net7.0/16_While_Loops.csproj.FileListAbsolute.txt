@@ -1,0 +1,15 @@
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\obj\Debug\net7.0\16_While_Loops.csproj.AssemblyReference.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\obj\Debug\net7.0\16_While_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\obj\Debug\net7.0\16_While_Loops.AssemblyInfoInputs.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\obj\Debug\net7.0\16_While_Loops.AssemblyInfo.cs
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\obj\Debug\net7.0\16_While_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\bin\Debug\net7.0\16_While_Loops.exe
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\bin\Debug\net7.0\16_While_Loops.deps.json
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\bin\Debug\net7.0\16_While_Loops.runtimeconfig.json
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\bin\Debug\net7.0\16_While_Loops.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\bin\Debug\net7.0\16_While_Loops.pdb
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\obj\Debug\net7.0\16_While_Loops.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\obj\Debug\net7.0\refint\16_While_Loops.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\obj\Debug\net7.0\16_While_Loops.pdb
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\obj\Debug\net7.0\16_While_Loops.genruntimeconfig.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\16_While_Loops\obj\Debug\net7.0\ref\16_While_Loops.dll

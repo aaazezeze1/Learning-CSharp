@@ -2,11 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\14_Building_a_Better_Calculator\\obj",
-    "\\src\\14_Building_a_Better_Calculator\\obj\\Release",
-    "\\src\\14_Building_a_Better_Calculator\\obj\\Release\\net5.0",
-    "\\src\\15"
+    "\\src\\15_Switch_Statements",
+    "\\src\\1_Hello_World"
   ],
-  "SelectedNode": "\\src\\15",
+  "SelectedNode": "\\src\\15_Switch_Statements\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
