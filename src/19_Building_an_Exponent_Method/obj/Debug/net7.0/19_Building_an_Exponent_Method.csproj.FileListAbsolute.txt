@@ -1,0 +1,15 @@
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\bin\Debug\net7.0\19_Building_an_Exponent_Method.exe
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\bin\Debug\net7.0\19_Building_an_Exponent_Method.deps.json
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\bin\Debug\net7.0\19_Building_an_Exponent_Method.runtimeconfig.json
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\bin\Debug\net7.0\19_Building_an_Exponent_Method.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\bin\Debug\net7.0\19_Building_an_Exponent_Method.pdb
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\obj\Debug\net7.0\19_Building_an_Exponent_Method.csproj.AssemblyReference.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\obj\Debug\net7.0\19_Building_an_Exponent_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\obj\Debug\net7.0\19_Building_an_Exponent_Method.AssemblyInfoInputs.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\obj\Debug\net7.0\19_Building_an_Exponent_Method.AssemblyInfo.cs
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\obj\Debug\net7.0\19_Building_an_Exponent_Method.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\obj\Debug\net7.0\19_Building_an_Exponent_Method.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\obj\Debug\net7.0\refint\19_Building_an_Exponent_Method.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\obj\Debug\net7.0\19_Building_an_Exponent_Method.pdb
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\obj\Debug\net7.0\19_Building_an_Exponent_Method.genruntimeconfig.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\19_Building_an_Exponent_Method\obj\Debug\net7.0\ref\19_Building_an_Exponent_Method.dll

@@ -1,0 +1,15 @@
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\obj\Debug\net7.0\20_2d_Arrays.csproj.AssemblyReference.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\obj\Debug\net7.0\20_2d_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\obj\Debug\net7.0\20_2d_Arrays.AssemblyInfoInputs.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\obj\Debug\net7.0\20_2d_Arrays.AssemblyInfo.cs
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\obj\Debug\net7.0\20_2d_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\bin\Debug\net7.0\20_2d_Arrays.exe
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\bin\Debug\net7.0\20_2d_Arrays.deps.json
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\bin\Debug\net7.0\20_2d_Arrays.runtimeconfig.json
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\bin\Debug\net7.0\20_2d_Arrays.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\bin\Debug\net7.0\20_2d_Arrays.pdb
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\obj\Debug\net7.0\20_2d_Arrays.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\obj\Debug\net7.0\refint\20_2d_Arrays.dll
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\obj\Debug\net7.0\20_2d_Arrays.pdb
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\obj\Debug\net7.0\20_2d_Arrays.genruntimeconfig.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\20_2d_Arrays\obj\Debug\net7.0\ref\20_2d_Arrays.dll

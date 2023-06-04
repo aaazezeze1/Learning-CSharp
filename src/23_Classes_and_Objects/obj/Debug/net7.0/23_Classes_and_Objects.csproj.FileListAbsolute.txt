@@ -1,0 +1,5 @@
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\23_Classes_and_Objects\obj\Debug\net7.0\23_Classes_and_Objects.csproj.AssemblyReference.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\23_Classes_and_Objects\obj\Debug\net7.0\23_Classes_and_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\23_Classes_and_Objects\obj\Debug\net7.0\23_Classes_and_Objects.AssemblyInfoInputs.cache
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\23_Classes_and_Objects\obj\Debug\net7.0\23_Classes_and_Objects.AssemblyInfo.cs
+C:\Users\Amazing\Source\Repos\aaazezeze1\Learning-CSharp\src\23_Classes_and_Objects\obj\Debug\net7.0\23_Classes_and_Objects.csproj.CoreCompileInputs.cache
